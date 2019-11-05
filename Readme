@@ -1,10 +1,10 @@
-Introduccion:
-Este proyecto surge de la idea de monitorizar los hashtag de twitter de un evento,
-en este caso el evento elegido es Woman Tech Maker de Zaragoza, en esta ciudad tengo
-mucha gente querida y es un pequeño homenaje a ellas y ellos.
-En este proyecto usaré, NodeRed para monitorizar el evento, ThingSpeak como plataforma de 
-IoT para contabilizar el número total de eventos. Un WeMos D1 mini para activar el anillo 
-de neopixel.
+# Introducción
+Este proyecto surge de la idea de monitorizar los hashtag de twitter de un evento,<p>
+en este caso el evento elegido es Woman Tech Maker de Zaragoza, en esta ciudad tengo <p>
+mucha gente querida y es un pequeño homenaje a ellas y ellos.<p>
+En este proyecto usaré, NodeRed para monitorizar el evento, ThingSpeak como plataforma de <p>
+IoT para contabilizar el número total de eventos. Un WeMos D1 mini para activar el anillo <p>
+de neopixel.<p>
 
-Para más información pásate por:
+## Para más información pásate por:
 https://medium.com/@nuria_pp
