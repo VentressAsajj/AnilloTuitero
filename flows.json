@@ -1,0 +1,1 @@
+[{"id":"2cff704b.9a0d6","type":"function","z":"c3190116.f1a5a","name":"obtener contador","func":"contador = msg.contador;\nmsg.payload = contador;\nreturn msg;","outputs":1,"noerr":0,"x":850,"y":460,"wires":[["a7d2f95c.6a8b08","b4ef3a37.dae008"]]}]
